@@ -15,4 +15,4 @@
 </div><br>
 
 
-<img align="center" width="900" src="https://gifdb.com/images/high/shinchan-peace-laughing-v23yiyoz8ywgmujr.gif">
+<img align="center" width="600" src="https://gifdb.com/images/high/shinchan-peace-laughing-v23yiyoz8ywgmujr.gif">
