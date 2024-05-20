@@ -1,20 +1,18 @@
-### Hi there 👋
+<h1><div align="center">
+  Hi there, I'm <br><a href="https://ayo.so/deepseng" rel="me">Deep SenGupta</a><br><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWxmZmk3MzNiMzVoNDIwaG16ZjNtbGJkb253ajFobG16dndqY2gyYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Ll22OhMLAlVDb8UQWe/giphy.gif" width="80">
+  <h6>Let's Connect and have a Chat!!</h6>
+</div></h1>
 
 
-**Myself-Deep/Myself-Deep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+### My Blogs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+| Title | Published On |
+| ----- | ------------ |
+| [$350 bounty: How I Got It](https://medium.com/@deepseng/350-bounty-how-i-got-it-broken-linked-hijacked-31bfbc15ac0e) | 14 May, 2024 |
+
+</div><br>
 
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hey%20Everyone"/>
-</p>
+<img align="center" width="900" src="https://gifdb.com/images/high/shinchan-peace-laughing-v23yiyoz8ywgmujr.gif">
