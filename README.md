@@ -14,5 +14,6 @@
 | [Earning with Exploits](https://deepseng.medium.com/earning-with-exploits-the-bug-bounty-journey-9d864743c011) | 27 May, 2024 |
 </div><br>
 
-
-<img align="center" width="900" src="https://gifdb.com/images/high/shinchan-peace-laughing-v23yiyoz8ywgmujr.gif">
+<p align="center">
+  <img width="500" src="https://gifdb.com/images/high/shinchan-peace-laughing-v23yiyoz8ywgmujr.gif">
+</p>
