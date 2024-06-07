@@ -11,7 +11,6 @@
 | Title | Published On |
 | ----- | ------------ |
 | [$350 bounty: How I Got It](https://medium.com/@deepseng/350-bounty-how-i-got-it-broken-linked-hijacked-31bfbc15ac0e) | 14 May, 2024 |
-| [Earning with Exploits](https://deepseng.medium.com/earning-with-exploits-the-bug-bounty-journey-9d864743c011) | 27 May, 2024 |
 </div><br>
 
 <p align="center">
